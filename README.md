@@ -1,3 +1,3 @@
 # Occupational_Trauma_Upper_Extremities_Colombia
-This repository contains a database collected between 2020 and 2021 on upper extremity trauma in a department of Colombia.
-This database will be only used it for scientific research
+The acupational trauma in upper extremities is a cause of disability around the world.
+This repository contains a data collected between 2020 and 2021 about acupational trauma in upper extremities in a department of Colombia.
